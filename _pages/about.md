@@ -12,7 +12,7 @@ About Me
 I am now a Ph.D.candidate in the University of Chinese Academy of Sciences(UCAS). 
 I am now working on PET Imaging and Analysis. If you are seeking any form of academic cooperation, please feel free to email me at [XJY109221@siat.ac.cn]. We are hhiring interns.
 
-I graduated from <a href="https://en.tiangong.edu.cn/main.htm">Tiangong University</a> with a bachelor’s degree, <a href="https://www.ucas.ac.cn/">University of Chinese Academy of Sciences</a> with a master's degree, advised by <a href="https://scholar.google.com/citations?hl=zh-CN&user=Zlypmh8AAAAJ">Zhanli Hu</a>, <a href="https://scholar.google.com/citations?hl=zh-CN&user=0ga30iIAAAAJ">Na Zhang</a> and <a href="https://scholar.google.com/citations?hl=zh-CN&user=dNBT6aEAAAAJ">Zhenxing Huang</a>.
+I graduated from <a href="https://en.tiangong.edu.cn/main.htm">Tiangong University</a> with a bachelor’s degree, <a href="https://www.ucas.ac.cn/">University of Chinese Academy of Sciences</a> with a master's degree, advised by <a href="https://scholar.google.com/citations?hl=zh-CN&user=Zlypmh8AAAAJ">Zhanli Hu</a>,  <a href="https://scholar.google.com/citations?hl=zh-CN&user=0ga30iIAAAAJ">Na Zhang</a> and <a href="https://scholar.google.com/citations?hl=zh-CN&user=dNBT6aEAAAAJ">Zhenxing Huang</a>.
 
 My research interest includes PET reconstruction, attenuation correction and data analysis. I have published 5+ papers at the authoritative journals like EJNMMI, ER, JBHI.
 
@@ -29,7 +29,7 @@ My research interest includes PET reconstruction, attenuation correction and dat
 - 2023, President's Special Scholarship, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (中国科学院深圳先进技术研究院院长奖学金-特别奖)
 - 2023, Director's Innovation Fund Scholarship for Students, Medical and Engineering Institute, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (中国科学院深圳先进技术研究院医工所所长创新基金-学生奖)
 - 2023, "Outstanding Product Award" at the 25th China Hi-Tech Fair (第二十五届中国国际高新技术成果交易会“优秀产品奖”)
-- 2023-2024, "Outstanding Student" of University of Chinese Academy of Sciences (中国科学院大学“三好学生”生)
+- 2023-2024, "Outstanding Student" of University of Chinese Academy of Sciences (中国科学院大学“三好学生”)
 - 2022-2023, "Outstanding Student" of University of Chinese Academy of Sciences (中国科学院大学“三好学生”)
 - 2024, Outstanding Graduate of Beijing (北京市优秀毕业生)
 - 2024, Outstanding Graduate of University of Chinese Academy of Sciences (UCAS) (中国科学院大学优秀毕业生)
