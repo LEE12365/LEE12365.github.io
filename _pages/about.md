@@ -21,12 +21,24 @@ My research interest includes PET reconstruction, attenuation correction and dat
 🔥 News
 ======
 ## 
-- 2024.03: 📣 Two papers are accepted by ICLR 2024
-- 2023.05: 📣 Five papers are accepted by ACL 2023
-- 2023.01: DiffSinger was introduced in a [very popular video](https://www.bilibili.com/video/very_popular_video_id) (2000k+ views) in Bilibili!
-- 2023.01: I join TikTok 📊 ByteDance as a speech research scientist in Singapore!
-- 2022.02: I release a modern and responsive academic personal [homepage template](https://github.com/username/homepage_template). Welcome to STAR and FORK!
+- 2025.02: 📣 One conference paper is accepted by ISMRM 2025.
+- 2025.02: 📣 One paper is accepted by EJNMMI Physics.
 
+
+## 🏆 Honors and Awards
+- 2023, National Scholarship for Graduate Students (研究生国家奖学金)
+- 2023, President's Special Scholarship, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (中国科学院深圳先进技术研究院院长奖学金-特别奖)
+- 2023, Director's Innovation Fund Scholarship for Students, Medical and Engineering Institute, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences (中国科学院深圳先进技术研究院医工所所长创新基金-学生奖)
+- 2023, "Outstanding Product Award" at the 25th China Hi-Tech Fair (第二十五届中国国际高新技术成果交易会“优秀产品奖”)
+- 2023-2024, "Outstanding Student" of University of Chinese Academy of Sciences (中国科学院大学“三好学生”生)
+- 2022-2023, "Outstanding Student" of University of Chinese Academy of Sciences (中国科学院大学“三好学生”)
+- 2024, Outstanding Graduate of Beijing (北京市优秀毕业生)
+- 2024, Outstanding Graduate of University of Chinese Academy of Sciences (UCAS) (中国科学院大学优秀毕业生)
+
+## 📚 Educations
+- 2017.09 - 2021.06, Bachelor, Tiangong University, Tianjin.
+- 2021.09 - 2024.06, Master, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, Shenzhen.
+- 2024.09 - now, Ph.D. Candidate, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, Shenzhen.
 
 <!-- A data-driven personal website
 ======
