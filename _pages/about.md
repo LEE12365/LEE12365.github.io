@@ -47,17 +47,17 @@ My research interest includes PET reconstruction, attenuation correction and dat
 
 📄 Publications
 ======
-- **Learning CT-free attenuation-corrected total-body PET images through deep learning** <a href="https://link.springer.com/article/10.1007/s00330-024-10647-1">Links</a> 
-  - Wenbo Li<sup>#</sup>, Zhenxing Huang<sup>#</sup>, Zixiang Chen, Yongluo Jiang, Chao Zhou, Xu Zhang, Wei Fan, Yumo Zhao, Lulu Zhang, Liwen Wan, Yongfeng Yang, Hairong Zheng, Dong Liang, Zhanli Hu<sup>*</sup>. *European Radiology* 34: 5578-5587, 2024.
+- **Learning CT-free attenuation-corrected total-body PET images through deep learning** <a href="https://link.springer.com/article/10.1007/s00330-024-10647-1">[Links]</a> 
+  - Wenbo Li<sup>#</sup>, Zhenxing Huang<sup>#</sup>, Zixiang Chen, Yongluo Jiang, Chao Zhou, Xu Zhang, Wei Fan, Yumo Zhao, Lulu Zhang, Liwen Wan, Yongfeng Yang, Hairong Zheng, Dong Liang, Zhanli Hu*. *European Radiology* 34: 5578-5587, 2024.
 
-- **Accurate whole-brain segmentation for bimodal PET/MR images via a cross-attention mechanism** <a href="https://ieeexplore.ieee.org/document/10556684">Links</a>
-  - Wenbo Li<sup>#</sup>, Zhenxing Huang<sup>#</sup>, Qiyang Zhang<sup>#</sup>, Na Zhang, Wenjie Zhao, Yaping Wu, Jianmin Yuan, Yang Yang, Yan Zhang, Yongfeng Yang, Hairong Zheng, Dong Liang, Meiyu Wang<sup>*</sup>, Zhanli Hu<sup>*</sup>. *IEEE Transactions on Radiation and Plasma Medical Sciences Online*, 2024.
+- **Accurate whole-brain segmentation for bimodal PET/MR images via a cross-attention mechanism** <a href="https://ieeexplore.ieee.org/document/10556684">[Links]</a>
+  - Wenbo Li<sup>#</sup>, Zhenxing Huang<sup>#</sup>, Qiyang Zhang<sup>#</sup>, Na Zhang, Wenjie Zhao, Yaping Wu, Jianmin Yuan, Yang Yang, Yan Zhang, Yongfeng Yang, Hairong Zheng, Dong Liang, Meiyu Wang*, Zhanli Hu*. *IEEE Transactions on Radiation and Plasma Medical Sciences Online*, 2024.
 
-- **A generative whole-brain segmentation model for positron emission tomography images** <a href="https://link.springer.com/article/10.1186/s40658-025-00716-9">Links</a>
-  - Wenbo Li<sup>#</sup>, Zhenxing Huang<sup>#</sup>, Hongyan Tang<sup>#</sup>, Yaping Wu, Yunlong Gao, Jing Qin, Jianmin Yuan, Yang Yang, Yan Zhang, Na Zhang, Hairong Zheng, Dong Liang, Meiyun Wang<sup>*</sup>, Zhanli Hu<sup>*</sup>. *EJNMMI Physics* 12(1):15, 2025  
+- **A generative whole-brain segmentation model for positron emission tomography images** <a href="https://link.springer.com/article/10.1186/s40658-025-00716-9">[Links]</a>
+  - Wenbo Li<sup>#</sup>, Zhenxing Huang<sup>#</sup>, Hongyan Tang<sup>#</sup>, Yaping Wu, Yunlong Gao, Jing Qin, Jianmin Yuan, Yang Yang, Yan Zhang, Na Zhang, Hairong Zheng, Dong Liang, Meiyun Wang*, Zhanli Hu*. *EJNMMI Physics* 12(1):15, 2025  
 
-- **Adaptive 3D noise level-guided restoration network for low-dose positron emission tomography imaging** <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/INMD.20230012">Links</a>[Back cover page]
-  - Wenbo Li<sup>#</sup>, Zhenxing Huang<sup>#</sup>, Chao Zhou, Xu Zhang, Wei Fan, Dong Liang, Zhanli Hu<sup>*</sup>.  *Interdisciplinary Medicine* 1:e20230012, 2023.
+- **Adaptive 3D noise level-guided restoration network for low-dose positron emission tomography imaging** <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/INMD.20230012">[Links]</a>[Back cover page]
+  - Wenbo Li<sup>#</sup>, Zhenxing Huang<sup>#</sup>, Chao Zhou, Xu Zhang, Wei Fan, Dong Liang, Zhanli Hu*.  *Interdisciplinary Medicine* 1:e20230012, 2023.
 
 
 <!-- A data-driven personal website
