@@ -11,11 +11,10 @@ About Me
 ======
 I am now a Ph.D.candidate in the University of Chinese Academy of Sciences(UCAS). 
 I am now working on PET Imaging and Analysis. If you are seeking any form of academic cooperation, please feel free to email me at [XJY109221@siat.ac.cn]. We are hhiring interns.
+
 I graduated from <a href="https://en.tiangong.edu.cn/main.htm">Tiangong University</a> with a bachelor’s degree, <a href="https://www.ucas.ac.cn/">University of Chinese Academy of Sciences</a> with a master's degree, advised by <a href="https://scholar.google.com/citations?hl=zh-CN&user=Zlypmh8AAAAJ">Zhanli Hu</a>,<a href="https://scholar.google.com/citations?hl=zh-CN&user=0ga30iIAAAAJ">Na Zhang</a> and <a href="https://scholar.google.com/citations?hl=zh-CN&user=dNBT6aEAAAAJ">Zhenxing Huang</a>.
 
 My research interest includes PET reconstruction, attenuation correction and data analysis. I have published 5+ papers at the authoritative journals like EJNMMI, ER, JBHI.
-
-<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->
 
 A data-driven personal website
 ======
