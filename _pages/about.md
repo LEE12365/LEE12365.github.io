@@ -56,7 +56,7 @@ Wenbo Li<sup>#</sup>, Zhenxing Huang<sup>#</sup>, Qiyang Zhang<sup>#</sup>, Na Z
 - **A generative whole-brain segmentation model for positron emission tomography images** <a href="https://link.springer.com/article/10.1186/s40658-025-00716-9">[Links]</a>
 Wenbo Li<sup>#</sup>, Zhenxing Huang<sup>#</sup>, Hongyan Tang<sup>#</sup>, Yaping Wu, Yunlong Gao, Jing Qin, Jianmin Yuan, Yang Yang, Yan Zhang, Na Zhang, Hairong Zheng, Dong Liang, Meiyun Wang*, Zhanli Hu*. *EJNMMI Physics* 12(1):15, 2025  
 
-- **Adaptive 3D noise level-guided restoration network for low-dose positron emission tomography imaging** <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/INMD.20230012">[Links]</a>[Back cover page]
+- **Adaptive 3D noise level-guided restoration network for low-dose positron emission tomography imaging** [Back cover page]<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/INMD.20230012">[Links]</a>
 Wenbo Li<sup>#</sup>, Zhenxing Huang<sup>#</sup>, Chao Zhou, Xu Zhang, Wei Fan, Dong Liang, Zhanli Hu*.  *Interdisciplinary Medicine* 1:e20230012, 2023.
 
 
