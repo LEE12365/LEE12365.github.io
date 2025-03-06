@@ -24,11 +24,10 @@ author:
   # Biographic information
   avatar           : "Wenbo Li.jpg"
   name             : "Wenbo Li (李文博)"
-
   pronouns         : # example: "she/her"  
   # bio              : "Short biography for the left-hand sidebar"
   location         : "Shenzhen, China"
-  employer         : "UCAS"
+  employer         : # URL
   uri              : # URL
   email            : "XJY109221@siat.ac.cn" 
 
