@@ -9,6 +9,8 @@ redirect_from:
 
 About Me
 ======
+
+
 I am now a Ph.D.candidate in the University of Chinese Academy of Sciences(UCAS). 
 I am now working on PET Imaging and Analysis. If you are seeking any form of academic cooperation, please feel free to email me at [XJY109221@siat.ac.cn]. We are hhiring interns.
 
@@ -16,14 +18,15 @@ I graduated from <a href="https://en.tiangong.edu.cn/main.htm">Tiangong Universi
 
 My research interest includes PET reconstruction, attenuation correction and data analysis. I have published 5+ papers at the authoritative journals like EJNMMI, ER, JBHI.
 
-<h1 id="-news">🔥 News</h1>
-<ul>
-  <li><em>2024.03</em>: 🎉 Two papers are accepted by ICLR 2024</li>
-  <li><em>2023.05</em>: 🎉 Five papers are accepted by ACL 2023</li>
-  <li><em>2023.01</em>: DiffSinger was introduced in <a href="https://www.bilibili.com/video/BV1uM411t7ZJ">a very popular video</a> (2000k+ views) in Bilibili!</li>
-  <li><em>2023.01</em>: I join TikTok <img src="./images/tiktok.png" style="width: 6em;" /> as a speech research scientist in Singapore!</li>
-  <li><em>2022.02</em>: I release a modern and responsive academic personal <a href="https://github.com/RayeRen/acad-homepage.github.io">homepage template</a>. Welcome to STAR and FORK!</li>
-</ul>
+🔥 News
+======
+## 
+- 2024.03: 📣 Two papers are accepted by ICLR 2024
+- 2023.05: 📣 Five papers are accepted by ACL 2023
+- 2023.01: DiffSinger was introduced in a [very popular video](https://www.bilibili.com/video/very_popular_video_id) (2000k+ views) in Bilibili!
+- 2023.01: I join TikTok 📊 ByteDance as a speech research scientist in Singapore!
+- 2022.02: I release a modern and responsive academic personal [homepage template](https://github.com/username/homepage_template). Welcome to STAR and FORK!
+
 
 <!-- A data-driven personal website
 ======
