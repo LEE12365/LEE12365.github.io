@@ -60,6 +60,20 @@ Wenbo Li<sup>#</sup>, Zhenxing Huang<sup>#</sup>, Hongyan Tang<sup>#</sup>, Yapi
 Wenbo Li<sup>#</sup>, Zhenxing Huang<sup>#</sup>, Chao Zhou, Xu Zhang, Wei Fan, Dong Liang, Zhanli Hu*.  *Interdisciplinary Medicine* 1:e20230012, 2023.
 
 
+🖥️ Skills
+======
+- **Language**:
+  - Proficient in C/C++, Python
+
+- **Knowledge**:
+  - Proficient in data structures and algorithms
+  - Competent in software and system development
+  - Understanding of Linux, Windows
+
+- **Tools**:
+  - Competent in LaTeX, Git
+
+
 <!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
