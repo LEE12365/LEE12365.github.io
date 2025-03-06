@@ -25,7 +25,7 @@ author:
   avatar           : "Wenbo Li.jpg"
   name             : "Wenbo Li (李文博)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : # URL
   location         : "Shenzhen, China"
   employer         : "UCAS"
   uri              : # URL
