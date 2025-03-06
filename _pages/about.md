@@ -16,7 +16,16 @@ I graduated from <a href="https://en.tiangong.edu.cn/main.htm">Tiangong Universi
 
 My research interest includes PET reconstruction, attenuation correction and data analysis. I have published 5+ papers at the authoritative journals like EJNMMI, ER, JBHI.
 
-A data-driven personal website
+<h1 id="-news">🔥 News</h1>
+<ul>
+  <li><em>2024.03</em>: 🎉 Two papers are accepted by ICLR 2024</li>
+  <li><em>2023.05</em>: 🎉 Five papers are accepted by ACL 2023</li>
+  <li><em>2023.01</em>: DiffSinger was introduced in <a href="https://www.bilibili.com/video/BV1uM411t7ZJ">a very popular video</a> (2000k+ views) in Bilibili!</li>
+  <li><em>2023.01</em>: I join TikTok <img src="./images/tiktok.png" style="width: 6em;" /> as a speech research scientist in Singapore!</li>
+  <li><em>2022.02</em>: I release a modern and responsive academic personal <a href="https://github.com/RayeRen/acad-homepage.github.io">homepage template</a>. Welcome to STAR and FORK!</li>
+</ul>
+
+<!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
@@ -53,4 +62,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
