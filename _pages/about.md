@@ -37,11 +37,31 @@ My research interest includes PET reconstruction, attenuation correction and dat
 - 2024, Outstanding Graduate of Beijing (北京市优秀毕业生)
 - 2024, Outstanding Graduate of University of Chinese Academy of Sciences (UCAS) (中国科学院大学优秀毕业生)
 
+
 📚 Educations
 ======
 - 2017.09 - 2021.06, Bachelor, Tiangong University, Tianjin.
 - 2021.09 - 2024.06, Master, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, Shenzhen.
 - 2024.09 - now, Ph.D. Candidate, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, Shenzhen.
+
+📄 Publications
+======
+- **Learning CT-free attenuation-corrected total-body PET images through deep learning** [https://link.springer.com/article/10.1007/s00330-024-10647-1]
+  - Wenbo Li#, Zhenxing Huang#, Zixiang Chen, Yongluo Jiang, Chao Zhou, Xu Zhang, Wei Fan, Yumo Zhao, Lulu Zhang, Liwen Wan, Yongfeng Yang, Hairong Zheng, Dong Liang, Zhanli Hu*
+  - *European Radiology* 34: 5578-5587, 2024.
+
+- **Accurate whole-brain segmentation for bimodal PET/MR images via a cross-attention mechanism** [https://ieeexplore.ieee.org/document/10556684]
+  - Wenbo Li#, Zhenxing Huang#, Qiyang Zhang#, Na Zhang, Wenjie Zhao, Yaping Wu, Jianmin Yuan, Yang Yang, Yan Zhang, Yongfeng Yang, Hairong Zheng, Dong Liang, Meiyu Wang*, Zhanli Hu*
+  - *IEEE Transactions on Radiation and Plasma Medical Sciences Online*, 2024.
+
+- **A generative whole-brain segmentation model for positron emission tomography images** <sup>[https://link.springer.com/article/10.1186/s40658-025-00716-9]</sup>
+  - Wenbo Li<sup>#</sup>, Zhenxing Huang<sup>#</sup>, Hongyan Tang<sup>#</sup>, Yaping Wu, Yunlong Gao, Jing Qin, Jianmin Yuan, Yang Yang, Yan Zhang, Na Zhang, Hairong Zheng, Dong Liang, Meiyun Wang<sup>*</sup>, Zhanli Hu*
+  - *EJNMMI Physics* 12(1):15, 2025  
+
+- **Adaptive 3D noise level-guided restoration network for low-dose positron emission tomography imaging** [https://onlinelibrary.wiley.com/doi/full/10.1002/INMD.20230012] [Back cover page]
+  - Wenbo Li#, Zhenxing Huang#, Chao Zhou, Xu Zhang, Wei Fan, Dong Liang, Zhanli Hu*
+  - *Interdisciplinary Medicine* 1:e20230012, 2023.
+
 
 <!-- A data-driven personal website
 ======
