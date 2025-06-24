@@ -9,7 +9,7 @@ redirect_from:
 
 About Me
 ======
-I am now a Ph.D.candidate in the University of Chinese Academy of Sciences(UCAS), advised by <a href="https://scholar.google.com/citations?hl=zh-CN&user=Zlypmh8AAAAJ">Zhanli Hu</a>,  <a href="https://scholar.google.com/citations?hl=zh-CN&user=0ga30iIAAAAJ">Na Zhang</a> and <a href="https://scholar.google.com/citations?hl=zh-CN&user=dNBT6aEAAAAJ">Zhenxing Huang</a>.
+I am now a Ph.D candidate in the University of Chinese Academy of Sciences (UCAS), advised by <a href="https://scholar.google.com/citations?hl=zh-CN&user=Zlypmh8AAAAJ">Zhanli Hu</a>,  <a href="https://scholar.google.com/citations?hl=zh-CN&user=0ga30iIAAAAJ">Na Zhang</a> and <a href="https://scholar.google.com/citations?hl=zh-CN&user=dNBT6aEAAAAJ">Zhenxing Huang</a>.
 
 
 I am now working on PET Imaging and Analysis. If you are seeking any form of academic cooperation, please feel free to email me at [XJY109221@siat.ac.cn]. We are hhiring interns.
@@ -24,6 +24,9 @@ My research interest includes PET reconstruction, attenuation correction and dat
 ======
 - 2025.02: 📣 One conference paper is accepted by ISMRM 2025.
 - 2025.02: 📣 One paper is accepted by EJNMMI Physics.
+- 2025.05: 📣 Three conference papers are accepted by SNMMI 2025.
+- 2025.06: 📣 One paper is accepted by MICCAI 2025.
+- 2025.06: 📣 Invited to give an oral presentation at the 2025 SNMMI conference.
 
 
 🏆 Honors and Awards
@@ -36,13 +39,14 @@ My research interest includes PET reconstruction, attenuation correction and dat
 - 2022-2023, "Outstanding Student" of University of Chinese Academy of Sciences (中国科学院大学“三好学生”)
 - 2024, Outstanding Graduate of Beijing (北京市优秀毕业生)
 - 2024, Outstanding Graduate of University of Chinese Academy of Sciences (UCAS) (中国科学院大学优秀毕业生)
+- 2025, Outstanding All-Around Student Exemplar of University of Chinese Academy of Sciences (UCAS) (中国科学院大学三好学生标兵)
 
 
 📚 Educations
 ======
 - 2017.09 - 2021.06, Bachelor, Tiangong University, Tianjin.
-- 2021.09 - 2024.06, Master, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, Shenzhen.
-- 2024.09 - now, Ph.D. Candidate, Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences, Shenzhen.
+- 2021.09 - 2024.06, Master, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen.
+- 2024.09 - now, Ph.D. Candidate, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen.
 
 
 📄 Publications
