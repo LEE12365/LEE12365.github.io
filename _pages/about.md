@@ -49,7 +49,7 @@ My research interest includes PET reconstruction, attenuation correction and dat
 - 2024.09 - now, Ph.D. Candidate, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen.
 
 
-📄 Publications
+📄 Representative Publications
 ======
 - **Learning CT-free attenuation-corrected total-body PET images through deep learning** <a href="https://link.springer.com/article/10.1007/s00330-024-10647-1">[Links]</a>
 Wenbo Li<sup>#</sup>, Zhenxing Huang<sup>#</sup>, Zixiang Chen, Yongluo Jiang, Chao Zhou, Xu Zhang, Wei Fan, Yumo Zhao, Lulu Zhang, Liwen Wan, Yongfeng Yang, Hairong Zheng, Dong Liang, Zhanli Hu*. *European Radiology* , 34: 5578-5587, 2024.
