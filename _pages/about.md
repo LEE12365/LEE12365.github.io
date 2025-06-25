@@ -9,7 +9,7 @@ redirect_from:
 
 About Me
 ======
-I am now a Ph.D candidate in the University of Chinese Academy of Sciences (UCAS), advised by <a href="https://scholar.google.com/citations?hl=zh-CN&user=Zlypmh8AAAAJ">Zhanli Hu</a>,  <a href="https://scholar.google.com/citations?hl=zh-CN&user=0ga30iIAAAAJ">Na Zhang</a> and <a href="https://scholar.google.com/citations?hl=zh-CN&user=dNBT6aEAAAAJ">Zhenxing Huang</a>.
+I am now a Ph.D candidate in the University of Chinese Academy of Sciences (UCAS), advised by <a href="https://scholar.google.com/citations?hl=zh-CN&user=Zlypmh8AAAAJ">Zhanli Hu</a>,  <a href="https://scholar.google.com/citations?hl=zh-CN&user=0ga30iIAAAAJ">Na Zhang</a> and <a href="https://billyhzx.github.io/index.html">Zhenxing Huang</a>.
 
 
 I am now working on PET Imaging and Analysis. If you are seeking any form of academic cooperation, please feel free to email me at [XJY109221@siat.ac.cn]. We are hhiring interns.
@@ -22,11 +22,12 @@ My research interest includes PET reconstruction, attenuation correction and dat
 
 🔥 News
 ======
-- 2025.02: 📣 One conference paper is accepted by ISMRM 2025.
-- 2025.02: 📣 One paper is accepted by EJNMMI Physics.
-- 2025.05: 📣 Three conference papers are accepted by SNMMI 2025.
-- 2025.06: 📣 One paper is accepted by MICCAI 2025.
 - 2025.06: 📣 Invited to give an oral presentation at the 2025 SNMMI conference.
+- 2025.06: 📣 One paper is accepted by MICCAI 2025.
+- 2025.05: 📣 Three conference papers are accepted by SNMMI 2025.
+- 2025.02: 📣 One paper is accepted by EJNMMI Physics.
+- 2025.02: 📣 One conference paper is accepted by ISMRM 2025.
+
 
 
 🏆 Honors and Awards
