@@ -22,6 +22,7 @@ My research interest includes PET reconstruction, attenuation correction and dat
 
 🔥 News
 ======
+- 2025.07: 📣 One paper is accepted by IEEE NSS/MIC 2025.   
 - 2025.06: 📣 Invited to give an oral presentation at the 2025 SNMMI conference.
 - 2025.06: 📣 One paper is accepted by MICCAI 2025.
 - 2025.05: 📣 Three conference papers are accepted by SNMMI 2025.
